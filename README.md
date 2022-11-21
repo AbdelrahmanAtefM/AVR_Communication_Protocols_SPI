@@ -7,6 +7,7 @@ Application on SPI
 
 
 #Microcontroller
+
 The microcontroller used is ATMEGA32 
 
 #peripherals
@@ -14,7 +15,9 @@ The microcontroller used is ATMEGA32
 In this project, I used some peripherals 
 
 *Two LEDs
+
  -I used Two blue LEDs to check that the communication is working well
+ 
  -I used one led for master  and the second for slave 
  
 
